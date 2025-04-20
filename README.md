@@ -35,4 +35,10 @@ Urban Chronoscope AI is a generative AI project that transforms present-day imag
 
 ---
 
+## Dataset
+
+You can find the dataset used for this project here: [Capstone Dataset on Kaggle](https://www.kaggle.com/datasets/godavarthisainikhil/capstone)
+
+---
+
 > This project was developed as part of the **Gen AI Intensive Course - Capstone Project (Q1 2025)** to explore real-world applications of multimodal generative models with RAG pipelines.
